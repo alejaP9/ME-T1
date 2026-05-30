@@ -51,7 +51,7 @@ Puedes seguir el desarrollo del proyecto y más proyectos en:
 
 ## 🖼️ Logo del proyecto
 
-![Logo NaturaTech](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
+![Logo NaturaTech](logo.png)
 
 > *"La tecnología al servicio de la naturaleza"* 🌱
 
